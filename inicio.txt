@@ -1,0 +1,24 @@
+inicios
+1. instalamos xampp
+2. iniciamos los servicios
+3. si no inicia sql
+	a) hacemos clic en services
+	b) encontramos el archivo sql57 y en la parte izquierda lo detenemos
+	c) hacesmo clic derecho sobre sql... y propiedades
+	d) escojemos en la primera pestaña tipo de inicio manual aceptamos y repetimo el inicio
+
+CONEXION ADOBE
+
+--------------------------
+en Dreamweber
+
+escogemos clic en sitio
+nuevo sitio
+nombre del sitio :	
+
+
+
+______________
+
+33 1b
+35 1a
